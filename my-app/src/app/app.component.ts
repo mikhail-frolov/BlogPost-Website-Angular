@@ -1,12 +1,13 @@
 /*********************************************************************************************  
- * WEB422 – Assignment 5
+ * WEB422 – Assignment 6
  * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
  * No part of this assignment has been copied manually or electronically from any other source
  * (including web sites) or distributed to other students.
  *
- * Name: Mikhail Frolov  Student ID: 164788184    Date: Nov. 29, 2020
+ * Name: Mikhail Frolov  Student ID: 164788184    Date: Dec. 11, 2020
  * 
- *
+ * Online Link: _______________________________________________________________
+ * 
  **********************************************************************************************/
 
 import { Component } from '@angular/core';
@@ -17,5 +18,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'web422-a5';
+  title = 'web422-a6';
 }
